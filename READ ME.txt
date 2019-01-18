@@ -1,0 +1,16 @@
+To play my game you either need to install the CubeDodge.apk onto an Android device
+or run it in Unity. If you run the game in Unity you will find that you have no player
+controls because its all set up for a mobile device. You can run the game and have it all
+work fine, but the player wont be able to move as there is no PC input. The build is also
+not built in android.
+
+The Instructions:
+
+The object of the game is to survive for as long as possible against falling blocks that
+over time fall more frequently and fall faster. All highscores are saved on the device their
+played on. To move left you tilt your device left in landscape and to move right you tilt
+your device right in landscape.
+
+The main menu can be used in landscape or portrait and it will scale all the UI accordingly.
+
+Enjoy the game! :)
